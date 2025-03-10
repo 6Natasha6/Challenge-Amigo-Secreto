@@ -8,8 +8,7 @@
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
    
-## Introduction
-
+## Introducción
 Challenge Amigo Secreto es una aplicación que permite a los usuarios agregar nombres de amigos a una lista y realizar un sorteo aleatorio para determinar al "amigo secreto".
 
 ## Características del juego:
@@ -25,3 +24,7 @@ Challenge Amigo Secreto es una aplicación que permite a los usuarios agregar no
  ## Tecnologías utilizadas
   
 - Lenguaje de programación: JavaScript.
+
+## Autores
+
+ [<img src="https://avatars.githubusercontent.com/u/201270607?s=400&u=96ced2cb00391aa59a331be61a913faf59305fc6&v=4" width=115><br><sub>Natasha</sub>](https://github.com/6Natasha6)
