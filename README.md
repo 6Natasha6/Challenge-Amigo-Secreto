@@ -1,7 +1,7 @@
 <h1 align="center"> Amigo Secreto </h1>
 
 <p align="center">
-  <img src=https://github.com/user-attachments/assets/5afeb8fb-669b-4148-85ac-dacf4a149f1d alt="Logotipo" width="200">
+  <img src=https://github.com/user-attachments/assets/ef25bbf5-56b3-4d40-b982-b323cb3d88e3 alt="Logotipo" width="200">
 </p>
 
  <p align="left">
