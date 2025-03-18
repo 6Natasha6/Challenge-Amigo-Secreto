@@ -33,6 +33,8 @@ Este pequeño proyecto es una aplicación que permite ingresar los nombres de tu
 3. Has click en el  botón "¡Click aqui para descubrir!".
 4. Y ¡Ta-Da, tu amigo secreto deveria aparecer en pantalla! 🪄
 
+https://github.com/user-attachments/assets/9188d2de-230d-4e93-8d45-1cbea6ae73e9
+
 ## Autor
 <img src="https://avatars.githubusercontent.com/u/201270607?s=400&u=96ced2cb00391aa59a331be61a913faf59305fc6&v=4" width=115><br><sub>Natasha</sub>
 
