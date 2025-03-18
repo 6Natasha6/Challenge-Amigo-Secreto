@@ -28,7 +28,7 @@ Este pequeño proyecto es una aplicación que permite ingresar los nombres de tu
 - CSS.
 
 ## 🧑‍💻 Como Jugar 🧑‍💻
-1. Has click es este enlace:
+1. Has click es este enlace: https://challenge-amigo-secreto-two-lilac.vercel.app
 2. Ingresa los nombre de tus amigos.
 3. Has click en el  botón "¡Click aqui para descubrir!".
 4. Y ¡Ta-Da, tu amigo secreto deveria aparecer en pantalla! 🪄
