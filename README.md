@@ -8,23 +8,34 @@
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
    
-## Introducción
-Challenge Amigo Secreto es una aplicación que permite a los usuarios agregar nombres de amigos a una lista y realizar un sorteo aleatorio para determinar al "amigo secreto".
+## 🗯️ Introducción 🗯️
+Este pequeño proyecto es una aplicación que permite ingresar los nombres de tus amigos para crear una lista de amigos para poder hacer un sorteo aleatorio y elegir quien sera tu amigo secreto! 
 
-## Características del juego:
+## 👾 Características del juego 👾
 
-- Agrega nombres mediante un campo de texto y el botón "Adicionar".
+- Agrega los nombres que digites a la lista.
 
-- Visualización de la lista de nombres ingresados.
+- Puedes ver lista de nombres ingresados.
 
-- Capacidad para realizar sorteos aleatorios al presionar el botón "Sortear Amigo".
+- Realiza un sorteo aleatorio al hacer click en el botón "¡Click aqui para descubrir!".
 
-- Visualizacion del resultado del sorteo en pantalla.
+- Ve el resultado del sorteo en la pantalla.
 
- ## Tecnologías utilizadas
+ ## 💻 Tecnologías utilizadas 💻
   
-- Lenguaje de programación: JavaScript.
+- JavaScript.
+- HTML.
+- CSS.
 
-## Autores
+## 🧑‍💻 Como Jugar 🧑‍💻
+1. Has click es este enlace:
+2. Ingresa los nombre de tus amigos.
+3. Has click en el  botón "¡Click aqui para descubrir!".
+4. Y ¡Ta-Da, tu amigo secreto deveria aparecer en pantalla! 🪄
 
- [<img src="https://avatars.githubusercontent.com/u/201270607?s=400&u=96ced2cb00391aa59a331be61a913faf59305fc6&v=4" width=115><br><sub>Natasha</sub>](https://github.com/6Natasha6)
+## Autor
+<img src="https://avatars.githubusercontent.com/u/201270607?s=400&u=96ced2cb00391aa59a331be61a913faf59305fc6&v=4" width=115><br><sub>Natasha</sub>
+
+## Redes
+- Linkedin: https://www.linkedin.com/in/natasha-nascimento-rosas-611bb634b/
+- Github: https://github.com/6Natasha6
