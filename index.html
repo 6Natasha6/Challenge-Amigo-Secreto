@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Challenge Amigo Secreto</title>
+        <style>
+          @import url('https://fonts.googleapis.com/css2?family=Micro+5&display=swap');
+          @import url('https://fonts.googleapis.com/css2?family=Atma:wght@300;400;500;600;700&display=swap');
+</style>
+        </style>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+<body>
+    <main class="main-content">
+        <header class="header-banner">
+            <h1 class="main-title">¿Quien sera tu amigo secreto?</h1>
+            <img src="assets/dibujo.png" alt="Imagen representativa de amigo secreto">
+        </header>
+        
+        <section class="input-section">
+            <h2 class="section-title">¡Escribe el nombre de tus amigos para saberlo!</h2>
+            <div class="input-wrapper">
+                <input type="text" id="amigo" class="input-name" placeholder="Ejemplo: Juan" aria-label="Nombre del amigo" onkeydown="detectarEnter(event)">
+                <button class="button-add" onclick="agregarAmigo()">Añadir</button>
+            </div>
+           
+            <ul id="listaAmigos" class="name-list" aria-labelledby="listaAmigos"></ul>
+            <ul id="resultado" class="result-list" aria-live="polite"></ul>
+
+            <div class="button-container">
+                <button class="button-draw" onclick="sortearAmigo()" aria-label="Sortear amigo secreto">
+                    🕵️‍♂️ ¡Click aqui para descubrir! 🕵️‍♀️
+                </button>
+            </div>
+        </section>
+    </main>
+
+    <script src="app.js" defer></script>
+    <script>
+        function detectarEnter(event) {
+            if (event.key === "Enter") {
+                agregarAmigo();
+            }
+        }
+    </script>
+</body>
+</html>
+ 
